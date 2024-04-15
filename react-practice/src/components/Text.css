@@ -1,0 +1,35 @@
+input[type = 'text']{
+    margin-left: 20%;
+    width: 60%;
+    height: 35px;
+    border-radius: 8px;
+
+}
+input[type='text']:focus {
+    border-color: black;
+    outline: 1px solid black; 
+}
+
+.btn {
+
+    position: absolute;
+    margin-top: 5px;
+    margin-left: -35px;
+    background-color: black;
+    color: white; 
+    height: 30px; 
+    width: 30px; 
+    border-radius: 8px;
+    border: none; 
+    cursor: pointer;
+    transition: border-color 0.3s;
+    
+}
+.feather {
+    width: 100%; 
+    height: 100%;
+}
+.feather {
+    width: 100%; 
+    height: 100%;
+}

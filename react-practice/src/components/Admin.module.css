@@ -1,0 +1,13 @@
+/* Admin.module.css */
+.btn {
+    border: none;
+    background: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center; 
+}
+
+.btn svg{
+    margin-left: 10px;
+}
